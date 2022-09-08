@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS `paintingportal`;
-USE `paintingportal`;
+CREATE DATABASE IF NOT EXISTS `heroku_9e7f79133e7a95d`;
+USE `heroku_9e7f79133e7a95d`;
 
 CREATE TABLE `genre` (
   `id` int(11) NOT NULL,
